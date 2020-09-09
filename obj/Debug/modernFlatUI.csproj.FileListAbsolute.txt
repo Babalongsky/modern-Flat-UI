@@ -1,0 +1,16 @@
+D:\visual studio\modernFlatUI\bin\Debug\modernFlatUI.exe.config
+D:\visual studio\modernFlatUI\bin\Debug\modernFlatUI.exe
+D:\visual studio\modernFlatUI\bin\Debug\modernFlatUI.pdb
+D:\visual studio\modernFlatUI\obj\Debug\modernFlatUI.csprojAssemblyReference.cache
+D:\visual studio\modernFlatUI\obj\Debug\modernFlatUI.Form1.resources
+D:\visual studio\modernFlatUI\obj\Debug\modernFlatUI.Properties.Resources.resources
+D:\visual studio\modernFlatUI\obj\Debug\modernFlatUI.csproj.GenerateResource.cache
+D:\visual studio\modernFlatUI\obj\Debug\modernFlatUI.csproj.CoreCompileInputs.cache
+D:\visual studio\modernFlatUI\obj\Debug\modernFlatUI.exe
+D:\visual studio\modernFlatUI\obj\Debug\modernFlatUI.pdb
+D:\visual studio\modernFlatUI\obj\Debug\modernFlatUI.forms.FormProduct.resources
+D:\visual studio\modernFlatUI\obj\Debug\modernFlatUI.forms.FormCostumer.resources
+D:\visual studio\modernFlatUI\obj\Debug\modernFlatUI.forms.FormInfo.resources
+D:\visual studio\modernFlatUI\obj\Debug\modernFlatUI.forms.FormOrder.resources
+D:\visual studio\modernFlatUI\obj\Debug\modernFlatUI.forms.FormReport.resources
+D:\visual studio\modernFlatUI\obj\Debug\modernFlatUI.forms.FormSetting.resources
